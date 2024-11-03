@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+Ashik Muhammed, Currently working in UAE in one of the real estae developers in UAE. Pursuing in Data science & AI , to upskill myself and to utilise the newly learned skills in my current job and further roles in future.
 
 <!--
 **ashikmuhammed03/ashikmuhammed03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
